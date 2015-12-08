@@ -5,3 +5,8 @@ the documentation is constantly being improved.
 
 [ssh](ssh)
 [windows](windows)
+
+
+Principles
+==========
+IDE agnostic

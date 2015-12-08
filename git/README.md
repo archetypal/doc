@@ -1,6 +1,6 @@
 Introduction
 ============
-This documentation has been revised per the 2.6.3 version of [git](https://git-scm.com/).
+This documentation applies to the 2.6.3 version of [git](https://git-scm.com/).
 
 Windows Installation
 ====================
