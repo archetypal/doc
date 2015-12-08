@@ -12,4 +12,15 @@ the documentation is constantly being improved.
 
 Principles
 ==========
-IDE agnostic
+- Angosticism
+  - IDE
+  - Cloud Hosting
+  - Swappable components
+- Opinionated
+  - SOA
+  - REST API
+  - JSON
+
+Refcards
+========
+Reference cards provide commonly used commands for working with Archetypal.

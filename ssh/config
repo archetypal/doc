@@ -1,0 +1,3 @@
+Host at
+ HostName github.com
+ IdentityFile ~/.ssh/archetypal
