@@ -18,6 +18,7 @@ npm ls -global -depth 0
 
 The following global packages are used by archetypal
 ```bash
+npm install -g aws-sdk
 npm install -g bower
 npm install -g gulp
 npm install -g tsd
