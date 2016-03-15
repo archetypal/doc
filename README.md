@@ -10,6 +10,14 @@ the documentation is constantly being improved.
 - [Windows](windows)
 
 
+Repositories
+============
+```bash
+git clone git@at:archetypal/doc.git
+git clone git@at:archetypal/ui-browser.git
+```
+
+
 Principles
 ==========
 - Angosticism

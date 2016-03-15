@@ -8,7 +8,7 @@ Windows
 
 Destination
 -----------
-Accept the default destination under AppData
+Install to C:\Program Files\Git, this works better with Docker Toolbox.
 
 Components
 ----------
