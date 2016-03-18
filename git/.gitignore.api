@@ -1,0 +1,38 @@
+# Apple
+.DS_Store
+
+# Eclipse
+**/.settings/**
+/.settings/
+.project
+.classpath
+*.launch
+
+# IntelliJ
+**/.idea/**
+*.iml
+
+# Maven
+**/target/**
+pom.xml.versionsBackup
+/target/
+
+# Node
+/node_modules
+
+# Typescript
+/typings
+
+# Gradle
+**/build/**
+**/.gradle/**
+
+# Temp files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ignore additional .gitignore files generated in directories 
+**/.gitignore

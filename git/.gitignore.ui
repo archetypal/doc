@@ -1,0 +1,33 @@
+# UI Focused .gitignore
+
+# Apple
+.DS_Store
+
+# Eclipse
+**/.settings/**
+/.settings/
+.project
+.classpath
+*.launch
+
+# IntelliJ
+**/.idea/**
+*.iml
+
+# Node/Bower/Gulp
+/node_modules
+/bower_components
+/dist
+
+# Typescript
+/typings
+
+# Temp files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ignore additional .gitignore files generated in directories
+**/.gitignore
